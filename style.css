@@ -1,0 +1,17 @@
+body {
+	front-family: Modern, sans-serif;
+	background-color: #f1f2f3f4f5f6f7f8;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	color: #888;
+	text-align: center;
+	margin-top: 150px;
+}
+p {
+	color: #666;
+	text-align: center;
+	front-size: 20px;
+}
